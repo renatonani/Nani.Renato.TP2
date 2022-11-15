@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.AccesoDatosUsuario" BaseTypeListCollapsed="true">
+    <Position X="3" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgEAAAAAAAAAABIQAAAAAAAAAAAIgAAABAAAAAAAE=</HashCode>
+      <FileName>AccesoDatosUsuario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Entidades.Carta">
+    <Position X="6.75" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIQAAACAAAQAAAgkgAAAAEAAAABoAAQAEAAAABAiA=</HashCode>
+      <FileName>Carta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Jugador">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQABAAEAAQAAgAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Usuario">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAEAAAAJAAAAAgACAAAAAgAAAAIACAAAAAoAAAyA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Entidades.IAccesoDatos&lt;T&gt;">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAIQAAAAAAAAAAAIgAAAAAAAAAAAA=</HashCode>
+      <FileName>IAccesoDatos.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Palos">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAABAAgAAAAAAAAAAg=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
